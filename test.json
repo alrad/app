@@ -1,0 +1,12 @@
+{
+  "video0": {
+    "name": "video test 0",
+    "hd_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://www.w3schools.com/howto/img_forest.jpg"
+  },
+  "video1": {
+    "name": "video test 0",
+    "hd_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "https://www.w3schools.com/howto/img_forest.jpg"
+  }
+}
